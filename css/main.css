@@ -5,7 +5,35 @@
 */
 @media screen {
 
-    body .box, body a.tab_current:link, body a.tab_current:visited, body a.tab_current:active, body img.avatar, body a.count_livid:link, body a.count_livid:active, body a.count_blue:visited, body a.count_green:visited, body a.count_orange:visited, body a.count_livid:visited, body .item_node, body a.balance_area:link, body a.balance_area:visited, body .balance_area, body .topic_buttons, body .no, body .sll, body a.node:link, body a.node:visited, body a.node:active, body .mll, body .super.button, body a.tab:link, body a.tab:visited, body a.tab:active, body .mle, body .sl, body .ml { border-radius: 0;}
+    body .box,
+    body a.tab_current:link,
+    body a.tab_current:visited,
+    body a.tab_current:active,
+    body img.avatar,
+    body a.count_livid:link,
+    body a.count_livid:active,
+    body a.count_blue:visited,
+    body a.count_green:visited,
+    body a.count_orange:visited,
+    body a.count_livid:visited,
+    body .item_node,
+    body a.balance_area:link,
+    body a.balance_area:visited,
+    body .balance_area,
+    body .topic_buttons,
+    body .no,
+    body .sll,
+    body a.node:link,
+    body a.node:visited,
+    body a.node:active,
+    body .mll,
+    body .super.button,
+    body a.tab:link,
+    body a.tab:visited,
+    body a.tab:active,
+    body .mle,
+    body .sl,
+    body .ml { border-radius: 0;}
     body .box { border-bottom: none;}
     body .item_node { background: none;}
     body .item { background: none;}
