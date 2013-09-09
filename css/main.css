@@ -1,0 +1,22 @@
+/*
+* v2ex扁平化风格
+* author：chshouyu
+* email: chshouyu@gmail.com
+*/
+@media screen {
+
+    body .box, body a.tab_current:link, body a.tab_current:visited, body a.tab_current:active, body img.avatar, body a.count_livid:link, body a.count_livid:active, body a.count_blue:visited, body a.count_green:visited, body a.count_orange:visited, body a.count_livid:visited, body .item_node, body a.balance_area:link, body a.balance_area:visited, body .balance_area, body .topic_buttons, body .no, body .sll, body a.node:link, body a.node:visited, body a.node:active, body .mll, body .super.button, body a.tab:link, body a.tab:visited, body a.tab:active, body .mle, body .sl, body .ml { border-radius: 0;}
+    body .box { border-bottom: none;}
+    body .item_node { background: none;}
+    body .item { background: none;}
+    body .item:hover { background-color: #F7F7F7;}
+    body .topic_buttons { background: #F8F8F8;}
+    body .mll, body .super.button { background: #F3F3F3; box-shadow: none;}
+    body .normal.button:hover { box-shadow: none; background: #FAFAFA;}
+    body #Top { background: #3A3A3A;}
+    body #Top table td:first-child { position: relative;}
+    body #Top table td:first-child a { display: block; width: 120px; height: 28px; position: relative;}
+    body #Top table td:first-child a:after { position: absolute; content: 'V2EX'; color: #fff; font-size: 18px; font-weight: 700; top: 6px;}
+    body #Top td img { display: none;}
+    body #q { background-color: #E6E6E6; margin: 1px 0px 1px 0px; width: 280px; padding: 0 4px;}
+}
