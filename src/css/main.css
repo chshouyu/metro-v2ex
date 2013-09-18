@@ -47,4 +47,8 @@
     body #Top table td:first-child a:after { position: absolute; content: 'V2EX'; color: #fff; font-size: 18px; font-weight: 700; top: 6px;}
     body #Top td img { display: none;}
     body #q { background-color: #E6E6E6; margin: 1px 0px 1px 0px; width: 280px; padding: 0 4px;}
+    body a.balance_area:link,
+    body a.balance_area:visited,
+    body .balance_area { background: #eee;}
+    body .balance_area:hover { background: #F5F5F5;}
 }
