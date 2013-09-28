@@ -33,10 +33,13 @@
     body a.tab:active,
     body .mle,
     body .sl,
-    body .ml { border-radius: 0;}
+    body .ml,
+    body .online,
+    body .payload { border-radius: 0;}
     body .box { border-bottom: none;}
-    body .item_node { background: none;}
+    body .item_node,
     body .item { background: none;}
+    body .dock_area { background-image: none; }
     body .item:hover { background-color: #F7F7F7;}
     body .topic_buttons { background: #F8F8F8;}
     body .mll, body .super.button { background: #F3F3F3; box-shadow: none;}
