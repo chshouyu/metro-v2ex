@@ -6,7 +6,13 @@
 
 ## 使用（择其一）
 
-### 安装crx扩展（Chrome浏览器或其他相同内核浏览器）
+### Chrome应用店安装(推荐)
+
+```
+https://chrome.google.com/webstore/detail/metrov2ex/egmolfooljcembfilppkplihgdalkabj
+```
+
+### 自行安装crx扩展（Chrome浏览器或其他相同内核浏览器）
 
 打开菜单-工具-扩展程序页面，将下载的crx文件拖放到页面上，会提示是否安装
 
