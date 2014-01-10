@@ -8,5 +8,6 @@
 			"matches": ["*://*.v2ex.com/*"],
 			"css": ["css/main.css"]
 		}
-	]
+	],
+	"short_name": "Metro_v2ex"
 }
