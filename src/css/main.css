@@ -47,8 +47,9 @@
     body #Top { background: #3A3A3A; position: fixed; width: 100%; top: 0; z-index: 1;}
     body #Top table td:first-child { position: relative;}
     body #Top table td:first-child a { display: block; width: 120px; height: 28px; position: relative;}
-    body #Top table td:first-child a:after { position: absolute; content: 'V2EX'; color: #fff; font-size: 18px; font-weight: 700; top: 6px;}
+    body #Top table td:first-child a:after { position: absolute; content: 'V2EX'; color: #E4E4E4; font-size: 18px; font-weight: 700; top: 6px;}
     body #Top td img { display: none;}
+    body #Top td a { color: #E4E4E4;}
     body #q { background-color: #E6E6E6; margin: 1px 0px 1px 0px; width: 280px; padding: 0 4px;}
     body #Wrapper { margin-top: 40px;}
     body a.balance_area:link,
