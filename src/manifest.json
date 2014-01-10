@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Metro_v2ex",
 	"description": "Metro风格的v2ex",
-	"version": "1.0",
+	"version": "1.1",
 	"permissions": ["*://*.v2ex.com/*", "tabs"],
 	"content_scripts": [{
 			"matches": ["*://*.v2ex.com/*"],
